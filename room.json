@@ -1,0 +1,63 @@
+[
+   {
+      "name":"Captain's Quarters Hotel",
+      "imageurls":[
+         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/81/28/4c/our-comfortable-beds.jpg?w=800&h=-1&s=1",
+         "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/81/28/4e/your-home-away-from-home.jpg?w=600&h=-1&s=1",
+         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/60/0d/11/captain-s-quarters.jpg?w=1200&h=-1&s=1"
+      ],
+      "rentperday":100,
+      "type":"Hotel Unit",
+      "phonenumber":123456789,
+      "currentbookings":[
+         
+      ],
+      "description":" Required: A damage of $100 which will be returned back if the condition of room is intact.No Smoking and No pets allowed."
+   },
+   {
+      "name":"Hampton Inn & Suites by Hilton",
+      "imageurls":[
+         "https://imgcy.trivago.com/if_iw_lte_ih,c_scale,w_236/if_else,c_scale,h_160/e_improve,q_auto:low/d_dummy.jpeg,f_auto,q_auto//partnerimages/52/89/528940064.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/52/89/528940042.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/52/89/528940056.jpeg"
+      ],
+      "rentperday":100,
+      "type":"1BR Studio Room",
+      "phonenumber":123456789,
+      "currentbookings":[
+         
+      ],
+      "description":"Required: A damage of $100 which will be returned back if the condition of room is intact.No Smoking and No pets allowed."
+   },
+   {
+      "name":"JW Mariott",
+      "imageurls":[
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/27/59/275979116.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/30/77/307721316.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/30/77/307721314.jpeg"
+      ],
+      "rentperday":100,
+      "type":"Hotel Unit",
+      "phonenumber":123456789,
+      "currentbookings":[
+         
+      ],
+      "description":"Required: A damage of $100 which will be returned back if the condition of room is intact.No Smoking and No pets allowed."
+   },
+   {
+      "name":"Taj Lands",
+      "imageurls":[
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/72/48/724848262.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/72/48/724848246.jpeg",
+         "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_470,q_auto,w_805//partnerimages/72/48/724848260.jpeg"
+      ],
+      "rentperday":100,
+      "type":"2BR- Studio Room",
+      "phonenumber":123456789,
+      "currentbookings":[
+         
+      ],
+      "description":"Required: A damage of $100 which will be returned back if the condition of room is intact.No Smoking and No pets allowed."
+   }
+   
+]
