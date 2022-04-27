@@ -6,7 +6,7 @@
   "scripts": {
       "dev": "(cd client && npm install) & npm install",
     "test": "mocha --recursive --exit --timeout 120000",
-    "start": "node server.js"
+    "start": "node server.js && (cd client && npm start)"
   },
   "keywords": [],
   "author": "",
