@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+      "dev": "(cd client && npm install) & npm install",
     "test": "mocha --recursive --exit --timeout 120000",
-    "start": "npm run start:server & npm run start:chat_server",
-    "start:server": "node server.js",
-    "start:chat_server": "nodemon chat_server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
