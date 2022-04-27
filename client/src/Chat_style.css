@@ -1,0 +1,14 @@
+#messages {
+  height: 60vh;
+  background-color: #eee;
+  font-size: 12px;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+#submit {
+  width: 100%;
+}
